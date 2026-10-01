@@ -1,0 +1,94 @@
+#FLAGGA	0
+#PROGRAM	OMNIBOOST
+#FORMAT	PC8
+#GEN	20260828
+#SIETYP	4
+#PROSA	"Bokföringsorder"
+#FNAMN	"Omniboost Hotel"
+#KPTYP	EUBAS97
+#KONTO	1512	"Faktura"
+#KONTO	1513	"Master Card & VISA"
+#KONTO	1514	"Amex"
+#KONTO	1575	"Boende Gäster"
+#KONTO	1580	"Förskott Nets"
+#KONTO	1680	"Bankgiro"
+#KONTO	2420	"Förskott"
+#KONTO	2610	"25% moms"
+#KONTO	2620	"12% moms"
+#KONTO	2630	"6% moms"
+#KONTO	2820	"Dricks"
+#KONTO	2850	"Lunchhäfte"
+#KONTO	2860	"Presentkort"
+#KONTO	3010	"Logi"
+#KONTO	3010	"Logi observation"
+#KONTO	3120	"Mat 25"
+#KONTO	3121	"Mat 12"
+#KONTO	3121	"Frukost"
+#KONTO	3122	"MAT 6%"
+#KONTO	3210	"Kaffe 25"
+#KONTO	3211	"Kaffe 12"
+#KONTO	3221	"Vatten 12"
+#KONTO	32210	"SPA Vatten 12%"
+#KONTO	3240	"Starköl"
+#KONTO	32400	"SPA Starköl"
+#KONTO	324000	"Hotell starköl"
+#KONTO	3250	"Vin"
+#KONTO	32500	"SPA Vin"
+#KONTO	325000	"Hotell Vin"
+#KONTO	3260	"Sprit"
+#KONTO	32600	"SPA sprit"
+#KONTO	354100	"Hotell Konfektyr 6%"
+#KONTO	3610	"Hyra lokal"
+#KONTO	3614	"Hyra festlokal"
+#KONTO	3616	"Spa entré"
+#KONTO	3630	"Gym entré"
+#KONTO	3650	"Garage"
+#KONTO	3660	"SPA Produkter"
+#KONTO	6050	"Försprov lunchhäfte"
+#DIM	1	"Resultatenhet"
+#OBJEKT	1	101	"Restaurang /"
+#OBJEKT	1	200	"SPA /"
+#OBJEKT	1	30	"Konferens"
+#OBJEKT	1	307	"Hotell /Reception"
+#OBJEKT	1	600	"Gym"
+#OBJEKT	1	80	"Betalningar"
+#VER	""	1	20260828	"Kassarapport"
+{
+#TRANS	1512	{}	42110.61
+#TRANS	1513	{}	150451.71
+#TRANS	1514	{}	11879.85
+#TRANS	1575	{}	60751.23
+#TRANS	1580	{}	3111.12
+#TRANS	1680	{}	17720.16
+#TRANS	2420	{}	13580.70
+#TRANS	2610	{}	-19279.45
+#TRANS	2620	{}	-20288.42
+#TRANS	2630	{}	-693.62
+#TRANS	2820	{"1"  "80"}	-661.20
+#TRANS	2850	{}	-1456.38
+#TRANS	2860	{}	522.00
+#TRANS	3010	{"1"  "307"}	-98588.87
+#TRANS	3120	{"1"  "101"}	-11492.29
+#TRANS	3121	{"1"  "101"}	-57126.38
+#TRANS	3122	{"1"  "101"}	-229.81
+#TRANS	3210	{"1"  "101"}	-2199.42
+#TRANS	3211	{"1"  "101"}	-3586.42
+#TRANS	3221	{"1"  "101"}	-1901.23
+#TRANS	32210	{"1"  "200"}	-195.75
+#TRANS	3240	{"1"  "101"}	-3832.18
+#TRANS	32400	{"1"  "200"}	-1117.78
+#TRANS	324000	{"1"  "307"}	-292.32
+#TRANS	3250	{"1"  "101"}	-28789.34
+#TRANS	32500	{"1"  "200"}	-699.48
+#TRANS	325000	{"1"  "307"}	-471.19
+#TRANS	3260	{"1"  "101"}	-3938.27
+#TRANS	32600	{"1"  "200"}	-153.12
+#TRANS	354100	{"1"  "307"}	-20.51
+#TRANS	3610	{"1"  "307"}	-9509.45
+#TRANS	3614	{"1"  "30"}	-7767.86
+#TRANS	3616	{"1"  "200"}	-11115.12
+#TRANS	3630	{"1"  "600"}	-11310.00
+#TRANS	3650	{"1"  "307"}	-3097.20
+#TRANS	3660	{"1"  "200"}	-410.64
+#TRANS	6050	{"1"  "101"}	96.32
+}
